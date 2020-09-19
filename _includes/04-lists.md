@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:sparkles: Favorite Things :sparkles:
+
+1. Summer
+2. Sunshine
+3. Beaches
